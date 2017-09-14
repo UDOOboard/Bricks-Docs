@@ -1,6 +1,6 @@
 {
-    "title": "UDOO Blu Docs",
-    "tagline": "UDOO Blu Documentation",
+    "title": "UDOO Bricks Docs",
+    "tagline": "UDOO Bricks Documentation",
     "author": "UDOO Team",
     "image": "https://www.udoo.org/docs/img/logos/docs.png",
     "ignore": {
@@ -13,7 +13,7 @@
 	    "breadcrumbs": false,
 	    "date_modified": false,
 	    "float": false,
-	    "repo": "UDOOboard/Blu-Docs",
+	    "repo": "UDOOboard/Bricks-Docs",
 	    "links": {
 	        "Home": "https://www.udoo.org",
 	        "Downloads": "https://www.udoo.org/downloads",
